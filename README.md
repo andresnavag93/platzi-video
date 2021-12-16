@@ -1,4 +1,5 @@
 # Platzi Video
+Educational Purposes Only
 
 - Practicing Basics of React and React Router Lib
 
